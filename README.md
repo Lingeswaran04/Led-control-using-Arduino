@@ -58,7 +58,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-![WhatsApp Image 2024-02-28 at 11 22 24_3d79ca70](https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/134ea100-bfd9-4679-91a7-41bdfeff4b47)
+<img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/134ea100-bfd9-4679-91a7-41bdfeff4b47" width="500" height="300">
 
 ## PROGRAM
 ```
@@ -86,9 +86,11 @@ void loop() {
 ```
 ## OUTPUT
 ##OFF
+
 <img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/8cbd4b84-a08c-4749-9c35-8dec639dcf16" width="500" height="300">
 
 ##ON
+
 <img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/a6688998-4107-4ddc-9c77-876b8d29b57b" width="500" height="300">
 
 ## RESULT
