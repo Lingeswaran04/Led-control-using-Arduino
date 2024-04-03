@@ -1,5 +1,7 @@
-# Led-control-using-Arduino
+#### NAME : LINGESWARAN K 
+#### REG NO: 212222110022
 
+# EXP 01 Led control using Arduino
 ## AIM
 To design and implement a system for LED control using an Arduino microcontroller and a push button.
 
@@ -58,7 +60,7 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
-<img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/134ea100-bfd9-4679-91a7-41bdfeff4b47" width="500" height="300">
+<img src="https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/c9dad9f9-2d15-4659-b782-287c9634454f" width="500" height="300">
 
 ## PROGRAM
 ```
@@ -85,13 +87,14 @@ void loop() {
 }
 ```
 ## OUTPUT
-##OFF
+# OFF:
+<img src="https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/fe4b42b2-98a1-4c8b-b71f-4933703efa20" width="500" height="300">
 
-<img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/8cbd4b84-a08c-4749-9c35-8dec639dcf16" width="500" height="300">
-
-##ON
-
-<img src="https://github.com/Lingeswaran04/Led-control-using-Arduino/assets/119103865/a6688998-4107-4ddc-9c77-876b8d29b57b" width="500" height="300">
+# ON:
+<img src="https://github.com/Sudharsanram/Led-control-using-Arduino/assets/119393980/9129601f-60ce-4598-b535-1a5b4a6dc71c" width="500" height="300">
 
 ## RESULT
-Thus the design and implement a system for LED control using an Arduino microcontroller and a push button is executed successfully.
+
+Thus the design and implement a system for LED control using an Arduino microcontroller and a push button is executed successfully
+
+
